@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="white-box">
-                    <h2 class="box-title text-center"><?php echo $sub_title; ?> </h2>
+                    <h2 class="box-title text-center"></h2>
                     <div class="row">
                         <div class="col-md-5 col-lg-3 col-sm-6 col-xs-12">
                             <div class="m-b-15">

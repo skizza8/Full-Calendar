@@ -8,7 +8,7 @@
     <meta name="description" content="Full Calendar generated from Javascript">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="assets/images/favicon.ico">
-    <title><?php echo $page_title; ?></title>
+    <title>Full Calendar</title>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
