@@ -1,24 +1,4 @@
-/* Dynamically change active tab menu option
-$(document).ready(function() {
-	$(".mr-auto .nav-item").on("click", function(){
-	   $(".mr-auto .nav-item").find(".active").removeClass("active");
-	   $(this).addClass("active");
-	});
 
-});
-
-
-$(document).ready(function() {
-    $( ".mr-auto .nav-item" ).bind( "click", function(event) {
-       // event.preventDefault();
-        var clickedItem = $( this );
-        $( ".mr-auto .nav-item" ).each( function() {
-            $( this ).removeClass( "active" );
-        });
-        clickedItem.addClass( "active" );
-    });
-});
-*/
 
 /*
 Full calendar custom JS code obtained from
